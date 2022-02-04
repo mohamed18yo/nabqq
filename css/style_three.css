@@ -1,0 +1,35 @@
+body {
+    background-color : #000000;
+    
+}
+
+body *{
+    color: white;
+}
+
+.services-item2 {
+    margin-bottom: 20px;
+}
+
+.services-item2 img {
+    border : 4px solid #222831;
+    padding: 3px;
+}
+
+.services .services-item {
+    max-height: auto !important;
+}
+
+header .overlay .header-content h2 {
+    margin : 25px 0 !important;
+    color: white;
+}
+header .overlay {
+
+    padding-bottom: 0;
+}
+
+.links-page .link-div span{
+    color: black !important;
+    font-size: 1.2rem;
+}
