@@ -37,12 +37,12 @@ header .overlay {
 .btn{
     margin: auto;
     margin-top: 1rem;
-    height: 25px;
+    min-height: 25px;
     width: 95%;
     border: 1px #dbdbdb solid;
     background-color: green;
     color: #fff;
-    padding: 1rem;
+    padding: .2rem;
     display: flex;
     align-items: center;
     justify-content: center;
